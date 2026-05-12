@@ -1,0 +1,13 @@
+The dataset used in this project is the Maven Analytics Toy Store E-Commerce dataset.
+
+This dataset includes 7 CSV files, one of them being a dictionary file to explain all column names in great detail as to avoid confusion.
+The CSV files consist of:
+  - maven_fuzzy_factory_data_dictionary.csv
+  - order_item_refunds.csv
+  - order_items.csv
+  - orders.csv
+  - products.csv
+  - website_pageviews.csv
+  - website_sessions.csv
+
+In-depth information about the dataset can be found at the link provided: https://mavenanalytics.io/data-playground/toy-store-e-commerce-database
